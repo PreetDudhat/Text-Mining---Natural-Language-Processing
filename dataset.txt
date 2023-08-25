@@ -1,1 +1,1 @@
-Dataset: MNIST - http://yann.lecun.com/exdb/mnist/ || https://www.kaggle.com/datasets/hojjatk/mnistdataset
+Datasets: I have used the IMDB movie reviews dataset https://ai.stanford.edu/~amaas/data/sentiment/ for sentiment analysis and the SemEval-2018 Affect in Tweets dataset (https://competitions.codalab.org/competitions/17751) for emotion classification.
